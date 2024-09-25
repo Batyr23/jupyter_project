@@ -1,0 +1,1 @@
+Thos txt file has been created by nano linux bash command in the terminal. 
